@@ -1,0 +1,19 @@
+<odoo>
+    <record id="inmueble_demo_0" model="sg.inmueble">
+        <field name="name">Terreno de 400m2</field>
+        <field name="value">250000</field>
+        <field name="street">Santa Cruz, Condominio Servilla Las Terrazas</field>
+    </record>    
+
+    <record id="inmueble_demo_1" model="sg.inmueble">
+        <field name="name">Casa en Condominio</field>
+        <field name="value">759000</field>
+        <field name="street">Santa Cruz, Calle Guapomo 3790</field>
+    </record>
+
+    <record id="inmueble_demo_3" model="sg.inmueble">
+        <field name="name">Casa en Urbanizaciones</field>
+        <field name="value">399000</field>
+        <field name="street">Santa Cruz, EL Sur</field>
+    </record>
+</odoo>
